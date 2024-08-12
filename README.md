@@ -1,1 +1,1 @@
-To calculate the area of a rectangle
+Python code to calculate the area of a rectangle
